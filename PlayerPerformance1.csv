@@ -1,0 +1,50 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Shikar Dhawan,10-Jan-20,T20I,Sri Lanka,Loss,FALSE,TRUE,India,GOOD,GREAT,AVERAGE,CLEAR,normal,IN,2,52
+Shikar Dhawan,7-Jan-20,T20I,Sri Lanka,Win,TRUE,FALSE,India,BAD,GREAT,AVERAGE,RAINY,normal,IN,2,32
+Shikar Dhawan,10-Nov-19,T20I,Bangladesh,Loss,FALSE,TRUE,India,GOOD,GREAT,AVERAGE,CLEAR,dusty,OUT,2,19
+Shikar Dhawan,7-Nov-19,T20I,Bangladesh,Win,TRUE,FALSE,India,GREAT,GREAT,BAD,FOGGY,normal,IN,2,31
+Shikar Dhawan,3-Nov-19,T20I,Bangladesh,Loss,FALSE,TRUE,India,GOOD,GREAT,BAD,foggy,damp,IN,2,41
+Shikar Dhawan,22-Sep-19,T20I,SOUTH AFRICA,Win,FALSE,TRUE,India,GREAT,GREAT,BAD,clear,normal,IN,1,36
+Shikar Dhawan,18-Sep-19,T20I,SOUTH AFRICA,Win,TRUE,FALSE,India,BAD,GREAT,BAD,clear,hard,IN,2,40
+Shikar Dhawan,6-Aug-19,T20I,WEST INDIES,Win,TRUE,FALSE,India,AVERAGE,BAD,BAD,clear,normal,OUT,2,3
+Shikar Dhawan,4-Aug-19,T20I,WEST INDIES,Win,FALSE,TRUE,India,BAD,BAD,BAD,rainy,normal,OUT,2,23
+Shikar Dhawan,3-Aug-19,T20I,WEST INDIES,Win,TRUE,FALSE,India,BAD,AVERAGE,AVERAGE,rainy,normal,OUT,2,1
+Shikar Dhawan,27-Feb-19,T20I,AUSTRALIA,Loss,TRUE,FALSE,India,BAD,GREAT,GREAT,clear,dusty,OUT,2,14
+Shikar Dhawan,10-Feb-19,T20I,NEW ZEALAND,Win,TRUE,FALSE,India,GOOD,GREAT,GREAT,sunny,dusty,OUT,1,5
+Shikar Dhawan,8-Feb-19,T20I,NEW ZEALAND,Win,FALSE,TRUE,India,AVERAGE,GREAT,GREAT,clear,hard,IN,2,30
+Shikar Dhawan,6-Feb-19,T20I,NEW ZEALAND,Win,TRUE,FALSE,India,GREAT,GREAT,GREAT,sunny,normal,IN,2,29
+Shikar Dhawan,25-Nov-18,T20I,AUSTRALIA,Loss,TRUE,FALSE,India,GREAT,GREAT,GREAT,clear,normal,OUT,2,41
+Shikar Dhawan,21-Nov-18,T20I,AUSTRALIA,Win,TRUE,FALSE,India,GREAT,GREAT,AVERAGE,sunny,hard,IN,2,76
+Shikar Dhawan,11-Nov-18,T20I,WEST INDIES,Loss,TRUE,FALSE,India,GREAT,GREAT,AVERAGE,rainy,damp,IN,2,92
+Shikar Dhawan,6-Nov-18,T20I,WEST INDIES,Loss,FALSE,TRUE,India,BAD,BAD,BAD,clear,damp,IN,2,43
+Shikar Dhawan,4-Nov-18,T20I,WEST INDIES,Win,TRUE,FALSE,India,BAD,BAD,BAD,rainy,hard,OUT,2,3
+Shikar Dhawan,8-Jul-18,T20I,ENGLAND,Loss,TRUE,FALSE,India,BAD,GREAT,AVERAGE,rainy,green,OUT,2,5
+Shikar Dhawan,6-Jul-18,T20I,ENGLAND,Loss,TRUE,FALSE,India,BAD,GREAT,GREAT,sunny,normal,OUT,2,10
+Shikar Dhawan,3-Jul-18,T20I,ENGLAND,Win,TRUE,FALSE,India,GREAT,GREAT,GREAT,clear,normal,OUT,2,4
+Shikar Dhawan,27-Jun-18,T20I,IRELAND,Loss,FALSE,TRUE,India,BAD,GREAT,GREAT,clear,normal,IN,2,74
+Shikar Dhawan,18-Mar-18,T20I,Bangladesh,Win,TRUE,FALSE,India,GOOD,GREAT,GREAT,sunny,damp,OUT,2,10
+Shikar Dhawan,14-Mar-18,T20I,Bangladesh,Loss,FALSE,TRUE,India,BAD,GREAT,GREAT,rainy,normal,IN,2,35
+Shikar Dhawan,12-Mar-18,T20I,Sri Lanka,Win,TRUE,FALSE,India,GREAT,GREAT,GREAT,clear,hard,OUT,2,8
+Shikar Dhawan,8-Mar-18,T20I,Bangladesh,Win,TRUE,FALSE,India,GREAT,GREAT,GREAT,sunny,normal,IN,2,55
+Shikar Dhawan,6-Mar-18,T20I,Sri Lanka,Loss,FALSE,TRUE,India,GREAT,GREAT,GREAT,clear,normal,IN,2,90
+Shikar Dhawan,24-Feb-18,T20I,SOUTH AFRICA,Loss,FALSE,TRUE,India,AVERAGE,GREAT,AVERAGE,sunny,green,IN,2,47
+Shikar Dhawan,21-Feb-08,T20I,SOUTH AFRICA,Loss,FALSE,TRUE,India,GREAT,GREAT,AVERAGE,rainy,damp,IN,2,24
+Shikar Dhawan,18-Feb-18,T20I,SOUTH AFRICA,Loss,FALSE,TRUE,India,BAD,GREAT,BAD,clear,green,IN,2,72
+Shikar Dhawan,7-Nov-17,T20I,NEW ZEALAND,Loss,FALSE,TRUE,India,BAD,GREAT,BAD,sunny,hard,OUT,2,6
+Shikar Dhawan,4-Nov-17,T20I,NEW ZEALAND,Loss,TRUE,FALSE,India,GREAT,GREAT,AVERAGE,sunny,hard,OUT,2,1
+Shikar Dhawan,1-Nov-17,T20I,NEW ZEALAND,Loss,FALSE,TRUE,India,BAD,BAD,BAD,rainy,normal,IN,2,60
+Shikar Dhawan,10-Oct-17,T20I,AUSTRALIA,Loss,FALSE,TRUE,India,BAD,BAD,BAD,clear,hard,OUT,2,16
+Shikar Dhawan,9-Jul-17,T20I,AUSTRALIA,Win,TRUE,FALSE,India,BAD,GREAT,AVERAGE,clear,hard,OUT,2,1
+Shikar Dhawan,27-Mar-16,T20I,WEST INDIES,Loss,FALSE,TRUE,India,GREAT,GREAT,AVERAGE,clear,green,OUT,2,2
+Shikar Dhawan,23-Mar-16,T20I,AUSTRALIA,Loss,TRUE,FALSE,India,GREAT,GREAT,BAD,rainy,normal,IN,2,46
+Shikar Dhawan,19-Mar-16,T20I,Bangladesh,Loss,FALSE,TRUE,India,BAD,GREAT,BAD,clear,green,IN,2,51
+Shikar Dhawan,15-Mar-17,T20I,Pakistan,Win,TRUE,FALSE,India,AVERAGE,GREAT,BAD,sunny,hard,OUT,2,9
+Shikar Dhawan,6-Mar-16,T20I,NEW ZEALAND,Loss,TRUE,FALSE,India,GREAT,GREAT,BAD,rainy,hard,OUT,2,26
+Shikar Dhawan,3-Mar-16,T20I,Bangladesh,Win,TRUE,FALSE,India,BAD,BAD,BAD,sunny,green,IN,2,42
+Shikar Dhawan,1-Mar-16,T20I,U.A.E,Loss,TRUE,FALSE,India,BAD,AVERAGE,BAD,clear,normal,OUT,2,5
+Shikar Dhawan,24-Feb-16,T20I,Sri Lanka,Win,TRUE,FALSE,India,BAD,BAD,BAD,clear,green,OUT,2,11
+Shikar Dhawan,14-Feb-16,T20I,Bangladesh,Loss,FALSE,TRUE,India,GOOD,BAD,BAD,sunny,hard,OUT,2,3
+Shikar Dhawan,12-Feb-16,T20I,Sri Lanka,Win,TRUE,FALSE,India,BAD,BAD,BAD,sunny,green,IN,2,33
+Shikar Dhawan,9-Feb-16,T20I,Sri Lanka,Loss,FALSE,TRUE,India,BAD,BAD,BAD,rainy,green,OUT,2,1
+Shikar Dhawan,31-Jan-16,T20I,Sri Lanka,Loss,FALSE,TRUE,India,GOOD,BAD,BAD,sunny,hard,OUT,2,0
+Shikar Dhawan,29-Jan-16,T20I,AUSTRALIA,Loss,TRUE,FALSE,India,GOOD,BAD,BAD,clear,green,OUT,2,30
